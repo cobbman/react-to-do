@@ -1,4 +1,13 @@
 {
+  "name" : "React To-do",
+  "description" : "A simple to-do app built in React",
+  "version" : "0.0.1",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/cobbman/react-to-do.git"
+
+  },
+  "author" : "William Cobb @william_cobb",
   "dependencies": {
     "create-react-app": "^5.0.0"
   }
