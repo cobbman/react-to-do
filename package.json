@@ -9,6 +9,6 @@
   },
   "author" : "William Cobb @william_cobb",
   "dependencies": {
-    "create-react-app": "^5.0.0"
+    "create-react-app": "^5.0.1"
   }
 }
